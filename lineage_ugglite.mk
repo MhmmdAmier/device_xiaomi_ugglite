@@ -41,6 +41,6 @@ TARGET_VENDOR_PRODUCT_NAME := ugglite
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="ugglite" \
     PRODUCT_NAME="ugglite" \
-    PRIVATE_BUILD_DESC="coral-user 11 RP1A.200720.009 6720564 release-keys"
+    PRIVATE_BUILD_DESC="redfin-user 11 RQ3A.211001.001 7641976 release-keys"
 
-BUILD_FINGERPRINT := "google/coral/coral:11/RP1A.200720.009/6720564:user/release-keys"
+BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys"
